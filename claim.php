@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("green","# # # # KattyKu # # # #\n");
+echo color("green","# # # # KattyKu # # # # \n");
 echo color("yellow","[•]  Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 echo color("yellow","[•]              By : Rina           \n");
 echo color("yellow","[•] penulisan nomor harus diawali 62xxxxxxxxxx \n");
